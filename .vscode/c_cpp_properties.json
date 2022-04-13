@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/j/catkin_ws/devel/include/**",
+        "/home/j/catkin_ws/src/service_tutorial/include/**",
+        "/home/j/catkin_ws/src/topic_tutorial/include/**",
+        "/home/j/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/j/catkin_ws/src/yh_divisor/include/**",
+        "/home/j/catkin_ws/src/yh_star/include/**",
+        "/home/j/catkin_ws/src/yh_sum/include/**",
+        "/home/j/catkin_ws/src/yh_turtle/include/**",
+        "/home/j/catkin_ws/src/yh_tutorial_1/include/**",
+        "/home/j/catkin_ws/src/yh_tutorial_2/include/**",
+        "/home/j/catkin_ws/src/yh_tutorial_3/include/**",
+        "/home/j/catkin_ws/src/yh_tutorial_4/include/**",
+        "/home/j/catkin_ws/src/yh_tutorial_5/include/**",
+        "/home/j/catkin_ws/src/yh_tutorial_6/include/**",
+        "/home/j/catkin_ws/src/yh_tutorial_7/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
